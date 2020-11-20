@@ -1,4 +1,6 @@
-# 👋 Hi over there, I'm Vivek 👦🏻💻
+<p align="center">
+    👋 Hi over there, I’m Vivek 👦🏻💻
+</p>
 
 <!--
 **VivekSalunkhe14/VivekSalunkhe14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
