@@ -21,3 +21,16 @@
     <img src="https://img.shields.io/badge/Instagram-464-pink?style=for-the-badge&logo=Instagram">
   </a>
 </p>
+
+### My stats  
+<p align="center">
+<a href="https://github.com/GurvirSingh/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=VivekSalunkhe14&show_icons=true&theme=radical" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/GurvirSingh/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekSalunkhe14&theme=radical&hide=blade&card_width=445&layout=compact" />
+</a>
+  </p>
