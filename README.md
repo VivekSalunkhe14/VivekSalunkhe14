@@ -24,13 +24,13 @@
 
 ### My stats  
 <p align="center">
-<a href="https://github.com/GurvirSingh/github-readme-stats">
+<a href="https://github.com/VivekSalunkhe14/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=VivekSalunkhe14&show_icons=true&theme=radical" />
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/GurvirSingh/convoychat">
+<a href="https://github.com/VivekSalunkhe14/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekSalunkhe14&theme=radical&hide=blade&card_width=445&layout=compact" />
 </a>
   </p>
