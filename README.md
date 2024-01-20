@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    I'm a Computer Engineer and an aspiring data science student pursuing Masters in Data Science from NMIMS university, Mumbai. I have worked as an ETL Developer where I was acquainted with ETL Tools and Data Management Techniques. Since then I am passionate about leveraging data and gathering insights from it. I love what I do and I aspire to use my knowledge for solving critical problems and uncover major objective decisions. I have worked with Machine Learning and Data Analytics Problems and I intend to further dive into Deep learning and Business Analytics Problems. 
+    Data Science graduate from NMIMS, Mumbai, and bringing valuable past experience as an ETL Developer at Bitwise Solutions. My journey is fueled by a passion for leveraging data to unearth crucial insights. Throughout my master's program, I delved into impactful internships, including applying Reinforcement Learning to the Smelting Process at LivNSense Technologies and crafting an NLP-driven Chatbot for seamless software integration at SAS. Currently serving as a Full-time Analytical Software Developer at SAS, I specialize in Demand Shaping through Forecasting, and actively implement cutting-edge technologies. My expertise spans Generative AI, Large Language Models (LLM), Langchain, and RAG's, all strategically applied in the dynamic realm of the Retail Domain. Committed to pushing the boundaries of technology and making a mark in the data-driven landscape."
 </p>
 </br>
 <p align="center">
